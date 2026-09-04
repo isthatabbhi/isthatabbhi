@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii.svg" width="520" alt="Abhishek Kumar"/>
+<img src="./ascii.svg" width="580" alt="Abhishek Kumar"/>
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
