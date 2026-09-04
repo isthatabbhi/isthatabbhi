@@ -12,12 +12,12 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> MCA student specializing in Storage and Cloud Technology at JAIN University.<br>
+> CS student at JAIN University, in Bangalore.<br>
 > Small, sharp tools over big vague ideas.
 
-Working across AWS, Azure Data Factory, Azure Databricks, PySpark, and Fabric.<br>
-Pursuing CompTIA Cloud+ alongside the degree. Focused on cloud-native software<br>
-engineering, infrastructure-as-code, and robust data pipeline architectures.
+Skilled in AWS, Azure Data Factory, Databricks, PySpark.<br>
+Focus: cloud-native engineering, IaC, data pipelines.<br>
+Pursuing CompTIA Cloud+.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
