@@ -1,42 +1,39 @@
 <div align="center">
 
-<img src="./ascii.svg?v=abhi" width="460" alt="Abhi"/>
+<img src="./profile-portrait.png" width="260" alt="Abhishek Kumar"/>
 
 <img src="./stats.svg?v=abhi" width="620" alt="Contributions in the last year"/>
 
-[linkedin](https://linkedin.com/) &nbsp;·&nbsp;
+[linkedin](https://linkedin.com/in/isthatabbhi) &nbsp;·&nbsp;
 [github](https://github.com/isthatabbhi) &nbsp;·&nbsp;
-[email](mailto:contact@example.com)
+[email](mailto:corp.abhishekk@gmail.com)
 
 </div>
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> CS student at Jain University, in Bangalore.<br>
-> Small, sharp tools over big vague ideas.
+> MCA graduate specializing in Cloud Technology at JAIN University, Bengaluru.<br>
+> Building practical cloud data systems with Python, Spark, SQL, AWS, and Azure.
 
-Skilled in AWS, Azure Data Factory, Databricks, PySpark.<br>
-Focus: cloud native engineering, IaC, data pipelines.<br>
-Pursuing MCA in Cloud Tech.
+Hands-on experience with Azure Data Factory pipelines and Databricks automation.<br>
+Focus: cloud infrastructure, streaming data, and production-ready workflows.<br>
+Open to software engineering roles.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>aws &nbsp; azure &nbsp; pyspark &nbsp; databricks &nbsp; python &nbsp; sql &nbsp; cdk &nbsp; docker &nbsp; fabric &nbsp; linux &nbsp; git</samp>
+<samp>aws &nbsp; azure &nbsp; data factory &nbsp; databricks &nbsp; pyspark &nbsp; python &nbsp; sql &nbsp; java &nbsp; linux &nbsp; git</samp>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[aws-cdk-pipeline](https://github.com/)** &nbsp;·&nbsp; <samp>aws cdk, typescript, python</samp><br>
-Infrastructure-as-code CI/CD pipeline with dev/prod isolation, built on CDK,<br>
-CodePipeline, CodeBuild, CodeDeploy, CloudFormation, EC2, S3, IAM, and CloudWatch.
-
-**[pc-control-panel](https://github.com/)** &nbsp;·&nbsp; <samp>python, flask, websockets</samp><br>
-Flask and WebSocket server controlling system volume, brightness, power plans,<br>
-Wi-Fi, and Bluetooth on Windows, driven remotely from an iOS Scriptable UI.
+**[FinGuard - Real-Time Credit Card Fraud Detection](https://github.com/isthatabbhi/FinGuard-Real-Time-Fraud-Detection)** &nbsp;·&nbsp; <samp>databricks, pyspark, kafka, delta lake</samp><br>
+Streaming fraud detection system with a Bronze-Silver-Gold architecture, data quality checks,<br>
+real-time monitoring, and automated fraud alert emails from Gold-layer detections.
 
 <img src="./hd-certifications.svg" width="620" alt="certifications"/>
 
-<samp>AWS Academy Cloud Architecting &nbsp;·&nbsp; Databricks GenAI &nbsp;·&nbsp; Oracle OCI AI Foundations<br>
-CompTIA Cloud+ (in progress) &nbsp;·&nbsp; Google Python &nbsp;·&nbsp; Meta MySQL &nbsp;·&nbsp; Anthropic MCP</samp>
+<samp>AWS Academy Cloud Architecting &nbsp;·&nbsp; Accenture Artificial Intelligence &nbsp;·&nbsp; Meta MySQL<br>
+Databricks GenAI &nbsp;·&nbsp; Oracle OCI AI Foundations &nbsp;·&nbsp; Anthropic MCP &nbsp;·&nbsp; AWS Cloud Practitioner<br>
+Deloitte Real-world Readiness &nbsp;·&nbsp; Google Python &nbsp;·&nbsp; CompTIA Cloud+ (in progress)</samp>
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
@@ -52,10 +49,8 @@ CompTIA Cloud+ (in progress) &nbsp;·&nbsp; Google Python &nbsp;·&nbsp; Meta My
 
 <img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
 
-Every graphic here is generated, not embedded from anyone else's server.<br>
-`ascii.svg` is a photo pushed through a character ramp by<br>
-[`scripts/make_portrait.py`](scripts/make_portrait.py); the stat graphics and<br>
-these section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
+The profile portrait is stored locally in `profile-portrait.png`, so it loads reliably.<br>
+The stat graphics and section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
 straight from the GitHub GraphQL API, once a day, committing only what changed.
 
 They animate with SMIL inside the SVG, because GitHub strips scripts from<br>
@@ -63,10 +58,7 @@ READMEs — and since nothing loads from a third party, nothing here can<br>
 rate-limit or go dark. The headings are SVGs for the same reason: GitHub also<br>
 strips CSS, so an image is the only way to put this page's own typeface on them.
 
-The typeface is [JetBrains Mono](scripts/fonts), subset to just the characters<br>
-each graphic draws and inlined as base64. That isn't only for looks: the<br>
-portrait's grid assumes an advance width of exactly 0.600 em, and a viewer whose<br>
-default monospace is narrower would otherwise see it squeezed.
+The graphics use a bundled [JetBrains Mono](scripts/fonts) subset so the profile<br>
+renders consistently without depending on third-party services.
 
-Language totals cover public repositories only. `year.svg` uses the portrait's<br>
-character ramp: `:` `+` `#` `@`, quiet to loud.
+Language totals cover public repositories only and refresh automatically each day.
