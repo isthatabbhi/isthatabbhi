@@ -46,19 +46,3 @@ Deloitte Real-world Readiness &nbsp;·&nbsp; Google Python &nbsp;·&nbsp; CompTI
 <img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
 </div>
-
-<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
-
-The profile portrait is generated from the source photo as an animated `ascii.svg`.<br>
-The stat graphics and section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
-straight from the GitHub GraphQL API, once a day, committing only what changed.
-
-They animate with SMIL inside the SVG, because GitHub strips scripts from<br>
-READMEs — and since nothing loads from a third party, nothing here can<br>
-rate-limit or go dark. The headings are SVGs for the same reason: GitHub also<br>
-strips CSS, so an image is the only way to put this page's own typeface on them.
-
-The graphics use a bundled [JetBrains Mono](scripts/fonts) subset so the profile<br>
-renders consistently without depending on third-party services.
-
-Language totals cover public repositories only and refresh automatically each day.
