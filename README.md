@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./ascii.svg?v=abhi" width="460" alt="Abhishek Kumar"/>
+<img src="./ascii.svg" width="460" alt="Abhishek Kumar"/>
 
-<img src="./stats.svg?v=abhi" width="620" alt="Contributions in the last year"/>
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
 [linkedin](https://linkedin.com/in/isthatabbhi) &nbsp;·&nbsp;
 [github](https://github.com/isthatabbhi) &nbsp;·&nbsp;
