@@ -5,7 +5,7 @@
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
 [isthatabbhi.tech](https://isthatabbhi.tech) &nbsp;·&nbsp;
-[instagram](https://instagram.com/abhi.zvn) &nbsp;·&nbsp;
+[instagram](https://instagram.com/abhi.zyn) &nbsp;·&nbsp;
 [linkedin](https://linkedin.com/in/isthatabbhi) &nbsp;·&nbsp;
 [email](mailto:corp.abhishekk@gmail.com)
 
