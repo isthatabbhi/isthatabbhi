@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-portrait.png" width="260" alt="Abhishek Kumar"/>
+<img src="./ascii.svg?v=abhi" width="460" alt="Abhishek Kumar"/>
 
 <img src="./stats.svg?v=abhi" width="620" alt="Contributions in the last year"/>
 
@@ -49,7 +49,7 @@ Deloitte Real-world Readiness &nbsp;·&nbsp; Google Python &nbsp;·&nbsp; CompTI
 
 <img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
 
-The profile portrait is stored locally in `profile-portrait.png`, so it loads reliably.<br>
+The profile portrait is generated from the source photo as an animated `ascii.svg`.<br>
 The stat graphics and section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
 straight from the GitHub GraphQL API, once a day, committing only what changed.
 
