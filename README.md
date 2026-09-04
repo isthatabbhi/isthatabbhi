@@ -13,12 +13,12 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> MCA graduate specializing in Cloud Technology at JAIN University, Bengaluru.<br>
-> Building practical cloud data systems with Python, Spark, SQL, AWS, and Azure.
+> CS student at Jain University, in Bangalore, India.<br>
+> Small, sharp tools over big vague ideas.
 
-Hands-on experience with Azure Data Factory pipelines and Databricks automation.<br>
-Focus: cloud infrastructure, streaming data, and production-ready workflows.<br>
-Open to software engineering roles.
+Skilled in AWS, Azure Data Factory, Databricks, PySpark.<br>
+Focus on cloud native engineering, IaC, data pipelines.<br>
+Pursuing MCA.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
