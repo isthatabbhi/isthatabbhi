@@ -13,7 +13,7 @@
 <img src="./hd-about.svg" width="620" alt="about"/>
 
 > MCA student specializing in Storage and Cloud Technology at JAIN University.<br>
-> Cloud infrastructure, automated pipelines, and distributed data systems.
+> Small, sharp tools over big vague ideas.
 
 Working across AWS, Azure Data Factory, Azure Databricks, PySpark, and Fabric.<br>
 Pursuing CompTIA Cloud+ alongside the degree. Focused on cloud-native software<br>
