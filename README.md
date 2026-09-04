@@ -12,12 +12,12 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> CS student at JAIN University, in Bangalore.<br>
+> CS student at Jain University, in Bangalore.<br>
 > Small, sharp tools over big vague ideas.
 
 Skilled in AWS, Azure Data Factory, Databricks, PySpark.<br>
-Focus: cloud-native engineering, IaC, data pipelines.<br>
-Pursuing CompTIA Cloud+.
+Focus: cloud native engineering, IaC, data pipelines.<br>
+Pursuing MCA in Cloud Tech.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
