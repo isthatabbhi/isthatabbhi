@@ -29,6 +29,14 @@ Pursuing MCA.
 Streaming fraud detection system with a Bronze-Silver-Gold architecture, data quality checks,<br>
 real-time monitoring, and automated fraud alert emails from Gold-layer detections.
 
+**[Cloud Atlas - Cloud-Native Microservices & CI/CD](https://github.com/isthatabbhi/Cloud-Atlas)** &nbsp;·&nbsp; <samp>aws ecs fargate, docker, codepipeline, rds mysql</samp><br>
+Monolith-to-microservices migration on AWS ECS Fargate with blue/green CI/CD,<br>
+zero-downtime deployments, and validated horizontal scaling.
+
+**[Signal - Monitoring & Data Products](https://github.com/isthatabbhi/Signal)** &nbsp;·&nbsp; <samp>dashboards, pipeline monitoring, developer workflows</samp><br>
+Dashboards, pipeline monitoring, and developer workflows that make complex data infrastructure<br>
+easier to read, inspect, and scale.
+
 <img src="./hd-certifications.svg" width="620" alt="certifications"/>
 
 <samp>AWS Academy Cloud Architecting &nbsp;·&nbsp; Accenture Artificial Intelligence &nbsp;·&nbsp; Meta MySQL<br>
@@ -46,3 +54,4 @@ Deloitte Real-world Readiness &nbsp;·&nbsp; Google Python &nbsp;·&nbsp; CompTI
 <img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
 </div>
+
