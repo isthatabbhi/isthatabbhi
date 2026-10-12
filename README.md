@@ -37,6 +37,10 @@ zero-downtime deployments, and validated horizontal scaling.
 Dashboards, pipeline monitoring, and developer workflows that make complex data infrastructure<br>
 easier to read, inspect, and scale.
 
+**[Opti Advisr - AWS Cost Optimizer Dashboard](https://github.com/Opti-Advisr/Opti-Advisr)** &nbsp;·&nbsp; <samp>terraform, api gateway, lambda, ec2, rds</samp><br>
+Team-built serverless AWS cost optimizer with AI-powered savings advice;<br>
+his contributions cover Terraform, API Gateway, IAM, and the resource manager Lambda.
+
 <img src="./hd-certifications.svg" width="620" alt="certifications"/>
 
 <samp>AWS Academy Cloud Architecting &nbsp;·&nbsp; Accenture Artificial Intelligence &nbsp;·&nbsp; Meta MySQL<br>
@@ -54,4 +58,5 @@ Deloitte Real-world Readiness &nbsp;·&nbsp; Google Python &nbsp;·&nbsp; CompTI
 <img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
 </div>
+
 
